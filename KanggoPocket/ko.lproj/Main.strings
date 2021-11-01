@@ -1,0 +1,120 @@
+
+/* Class = "UIButton"; normalTitle = "정보확인"; ObjectID = "14l-cb-lvM"; */
+"14l-cb-lvM.normalTitle" = "정보확인";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "63N-cQ-zRn"; */
+"63N-cQ-zRn.text" = "title";
+
+"W8p-qP-9l2.title" = "투데이";
+
+"UXr-Ya-8zb.title" = "투데이";
+
+"lzq-ex-5Nc.title" = "나";
+
+/* Class = "UILabel"; text = "Teacher's account"; ObjectID = "6ER-JD-aKO"; */
+"6ER-JD-aKO.text" = "선생님 로그인";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6gD-WY-qLz"; */
+"6gD-WY-qLz.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "8W1-8w-Bkt"; */
+"8W1-8w-Bkt.title" = "시간표";
+
+/* Class = "UIButton"; normalTitle = "초기설정"; ObjectID = "9b0-oa-VsQ"; */
+"9b0-oa-VsQ.normalTitle" = "초기설정";
+
+/* Class = "UILabel"; text = "Few settings before start."; ObjectID = "9xg-pm-xyi"; */
+"9xg-pm-xyi.text" = "시작하기 앞서 몇가지 설정을 진행하겠습니다.";
+
+/* Class = "UILabel"; text = "월요일"; ObjectID = "ALk-Pc-4IX"; */
+"ALk-Pc-4IX.text" = "월요일";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "C4w-wF-4SI"; */
+"C4w-wF-4SI.text" = "value";
+
+/* Class = "UITabBarItem"; title = "Meals"; ObjectID = "Dsh-BN-tWJ"; */
+"Dsh-BN-tWJ.title" = "급식";
+
+/* Class = "UINavigationItem"; title = "School Web"; ObjectID = "GZm-ua-Wud"; */
+"GZm-ua-Wud.title" = "학교 웹";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "I5U-Mx-aVc"; */
+"I5U-Mx-aVc.placeholder" = "이름";
+
+/* Class = "UINavigationItem"; title = "More"; ObjectID = "K6U-Oz-Gce"; */
+"K6U-Oz-Gce.title" = "설정";
+
+/* Class = "UILabel"; text = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)"; ObjectID = "NwY-E3-yXF"; */
+"NwY-E3-yXF.text" = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)";
+
+/* Class = "UITabBarItem"; title = "Schedule"; ObjectID = "RZi-Gq-Rjx"; */
+"RZi-Gq-Rjx.title" = "시간표";
+
+/* Class = "UIButton"; normalTitle = "메인화면"; ObjectID = "d18-j2-LZa"; */
+"d18-j2-LZa.normalTitle" = "메인화면";
+
+/* Class = "UIButton"; normalTitle = "닫기"; ObjectID = "dCt-w1-2f5"; */
+"dCt-w1-2f5.normalTitle" = "닫기";
+
+/* Class = "UINavigationItem"; title = "Meals"; ObjectID = "euv-9a-Ahq"; */
+"euv-9a-Ahq.title" = "급식";
+
+/* Class = "UIBarButtonItem"; title = "Update"; ObjectID = "lqJ-ga-ELU"; */
+"lqJ-ga-ELU.title" = "업데이트";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "msP-5X-egv"; */
+"msP-5X-egv.title" = "설정";
+
+/* Class = "UILabel"; text = "Please fill out form above"; ObjectID = "r1v-7V-JGC"; */
+"r1v-7V-JGC.text" = "이름, 학번을 입력해 주십시오.";
+
+/* Class = "UISegmentedControl"; tho-BJ-z6R.segmentTitles[0] = "MON"; ObjectID = "tho-BJ-z6R"; */
+"tho-BJ-z6R.segmentTitles[0]" = "월요일";
+
+/* Class = "UISegmentedControl"; tho-BJ-z6R.segmentTitles[1] = "TUES"; ObjectID = "tho-BJ-z6R"; */
+"tho-BJ-z6R.segmentTitles[1]" = "화요일";
+
+/* Class = "UISegmentedControl"; tho-BJ-z6R.segmentTitles[2] = "WED"; ObjectID = "tho-BJ-z6R"; */
+"tho-BJ-z6R.segmentTitles[2]" = "수요일";
+
+/* Class = "UISegmentedControl"; tho-BJ-z6R.segmentTitles[3] = "THURS"; ObjectID = "tho-BJ-z6R"; */
+"tho-BJ-z6R.segmentTitles[3]" = "목요일";
+
+/* Class = "UISegmentedControl"; tho-BJ-z6R.segmentTitles[4] = "FRI"; ObjectID = "tho-BJ-z6R"; */
+"tho-BJ-z6R.segmentTitles[4]" = "금요일";
+
+/* Class = "UITabBarItem"; title = "School web"; ObjectID = "vFN-ol-HM4"; */
+"vFN-ol-HM4.title" = "학교 웹";
+
+/* Class = "UILabel"; text = "Student number:"; ObjectID = "RJH-d4-rfN"; */
+"RJH-d4-rfN.text" = "학번:";
+
+"u0p-Xn-OLn.title" = "알러지정보";
+
+"lqJ-ga-ELU.title" = "업데이트";
+
+"h8y-re-4GU.title" = "닫기";
+
+"YAu-DR-gEH.title" = "업데이트";
+
+"mrr-o0-RBf.title" = "시간표 업데이트";
+
+"f0L-O8-Do1.title" = "Meal Update";
+
+"y4S-FP-DOG.title" = "다른반 보기";
+
+"659-LC-fxD.title" = "시간표";
+
+"2aK-ox-cKz.title" = "다른반";
+
+"33o-U4-lNy.title" = "업데이트";
+
+"Hdl-HM-sWR.title" = "더보기";
+
+"8QA-Ec-YfJ.title" = "더보기";
+
+"bqn-sS-x9O.title" = "개발자 후원";
+
+"1CF-bl-vmm.title" = "다른반 시간표";
+
+"V25-UK-l3z.title" = "시간표";

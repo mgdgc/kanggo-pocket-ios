@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  KanggoPocket
+
+  Created by Peter Choi on 2017. 12. 27..
+  Copyright © 2017년 RiDsoft. All rights reserved.
+*/
+
+CFBundleDisplayName = "Kanggo Pocket";
+
+NSCameraUsageDescription = "Kanggo Pocket needs to access your camera for scanning barcode.";

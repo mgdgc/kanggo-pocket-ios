@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Kanna (4.0.0)
+  - RSBarcodes_Swift (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.1)
+  - Kanna (~> 4.0.0)
+  - RSBarcodes_Swift (from `https://github.com/yeahdongcn/RSBarcodes_Swift`, branch `master`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kanna
+
+EXTERNAL SOURCES:
+  RSBarcodes_Swift:
+    :branch: master
+    :git: https://github.com/yeahdongcn/RSBarcodes_Swift
+
+CHECKOUT OPTIONS:
+  RSBarcodes_Swift:
+    :commit: 909ad9fab814edf20701819be66c2fc528567dc5
+    :git: https://github.com/yeahdongcn/RSBarcodes_Swift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Kanna: d5ae2a26472f7e7a474e7f36a9cd8aa2c8c63ad3
+  RSBarcodes_Swift: 3025b95707a63ff012a288de559a98bae77dd21c
+
+PODFILE CHECKSUM: 301b11ab591c6fdfd044f52984587f45a5df8d85
+
+COCOAPODS: 1.11.2

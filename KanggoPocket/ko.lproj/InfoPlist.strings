@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  KanggoPocket
+
+  Created by Peter Choi on 2017. 12. 27..
+  Copyright © 2017년 RiDsoft. All rights reserved.
+*/
+
+CFBundleDisplayName = "강고 포켓";
+
+NSCameraUsageDescription = "실물 학생증의 바코드를 인식하기 위해 카메라 권한이 필요합니다.";

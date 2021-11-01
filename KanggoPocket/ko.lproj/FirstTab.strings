@@ -1,0 +1,120 @@
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "4Du-uu-BbT"; */
+"4Du-uu-BbT.normalTitle" = "닫기";
+
+/* Class = "UITabBarItem"; title = "Today's"; ObjectID = "5aL-sV-vx9"; */
+"5aL-sV-vx9.title" = "투데이";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "BmA-Gf-Ay7"; */
+"BmA-Gf-Ay7.text" = "메뉴";
+
+/* Class = "UINavigationItem"; title = "Today's"; ObjectID = "HGM-GD-Nmh"; */
+"HGM-GD-Nmh.title" = "투데이";
+
+/* Class = "UIBarButtonItem"; title = "Me"; ObjectID = "JkX-aj-2MS"; */
+"JkX-aj-2MS.title" = "나";
+
+/* Class = "UINavigationItem"; title = "Today's"; ObjectID = "L5i-h4-RXW"; */
+"L5i-h4-RXW.title" = "투데이";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "TX0-X1-3HQ"; */
+"TX0-X1-3HQ.text" = "메뉴";
+
+/* Class = "UILabel"; text = "시간표"; ObjectID = "Zjr-7B-Rqt"; */
+"Zjr-7B-Rqt.text" = "시간표";
+
+/* Class = "UILabel"; text = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)"; ObjectID = "l2R-l1-vNj"; */
+"l2R-l1-vNj.text" = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)";
+
+/* Class = "UILabel"; text = "시간표"; ObjectID = "oxx-Vd-72W"; */
+"oxx-Vd-72W.text" = "시간표";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "q6N-eg-Ujz"; */
+"q6N-eg-Ujz.normalTitle" = "닫기";
+
+/* Class = "UIBarButtonItem"; title = "Me"; ObjectID = "sDk-C3-9rZ"; */
+"sDk-C3-9rZ.title" = "나";
+
+/* Class = "UITabBarItem"; title = "Today's"; ObjectID = "ud2-We-DZi"; */
+"ud2-We-DZi.title" = "투데이";
+
+/* Class = "UILabel"; text = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)"; ObjectID = "wL4-EO-h6X"; */
+"wL4-EO-h6X.text" = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)";
+
+"xlh-6U-tVb.title" = "교실배치도";
+
+"q6N-eg-Ujz.title" = "닫기";
+
+"zth-5T-Csf.text" = "사용자 정보 수정";
+
+"jD8-iM-AAz.placeholder" = "이름";
+
+"FOd-J4-gu9.text" = "선생님 로그인은 앱을 처음 설치했을 때에만 가능합니다.";
+
+"QlD-2e-FQg.text" = "동의 및 완료를 누르면 아래 약관에 동의한 것으로 간주합니다.";
+
+"WMN-98-vdo.normalTitle" = "동의 및 완료";
+
+"F7n-LS-k76.normalTitle" = "개인정보활용방침";
+
+"zn6-BO-vOH.text" = "선생님 로그인";
+
+"V3i-wT-8ew.title" = "강고 포켓 공지사항";
+
+"Zda-h6-I1J.text" = "- 주요 기능 -";
+
+"iZP-P3-84u.title" = "사파리로 열기";
+
+"8OO-NA-4xd.title" = "강고 포켓 공지사항";
+
+"zuA-1p-2Y9.title" = "새로 고침";
+
+"O52-yw-Lnd.title" = "업데이트";
+
+"Vsu-bq-KLf.title" = "교실배치도";
+
+"vla-Gj-01K.title" = "게시판";
+
+"56Z-bx-fIp.text" = "전자 학생증 생성";
+
+"TD0-Tv-SFn.text" = "학생증을 강고 포켓에 넣어 다니세요!.\n만들어진 학생증은 도서대출증, 급식 카드로 사용할 수 있습니다.\n\n실물 학생증의 바코드 사진만 찍으면 나머지는 강고 포켓이 알아서 할게요!";
+
+"6hj-r6-yFv.normalTitle" = "바코드 인식";
+
+"gM1-Hh-JbQ.text" = "바코드 스캔";
+
+"QZT-1P-8U3.normalTitle" = "취소";
+
+"PoP-JK-cK5.normalTitle" = "나중에 하기";
+
+"Khm-dx-5pm.normalTitle" = "닫기";
+
+"jV9-q8-dK3.normalTitle" = "학생증 삭제";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "VRt-IQ-RT2"; */
+"7by-VO-NEO.text" = "환영합니다!";
+
+/* Class = "UILabel"; text = "Few settings before start."; ObjectID = "9xg-pm-xyi"; */
+"Jp5-S4-H0a.text" = "시작하기 앞서 몇가지 설정을 진행하겠습니다.";
+
+/* Class = "UIButton"; normalTitle = "Complete"; ObjectID = "Y1z-xy-fAM"; */
+"bXc-Xk-G8j.normalTitle" = "동의 및 완료";
+
+/* Class = "UIButton"; normalTitle = "Terms about user info"; ObjectID = "dDE-NR-Y5d"; */
+"sRf-zh-AIt.normalTitle" = "개인정보처리방침";
+
+/* Class = "UILabel"; text = "If you click 'complete', you will be considered as you agreed terms below."; ObjectID = "g6j-uJ-G7e"; */
+"9Jk-qz-emc.text" = "동의 및 완료를 누르면 아래 약관에 동의한 것으로 간주합니다.";
+
+/* Class = "UILabel"; text = "Please fill out form above"; ObjectID = "r1v-7V-JGC"; */
+"HGx-54-Bgj.text" = "이름, 학번을 입력해 주십시오.";
+
+/* Class = "UILabel"; text = "Student number:"; ObjectID = "RJH-d4-rfN"; */
+"QuG-JY-SDX.text" = "학번:";
+
+/* Class = "UILabel"; text = "Teacher's account"; ObjectID = "6ER-JD-aKO"; */
+"hgM-I5-pRa.text" = "선생님 로그인";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "I5U-Mx-aVc"; */
+"sU8-cj-jeQ.placeholder" = "이름";"
+

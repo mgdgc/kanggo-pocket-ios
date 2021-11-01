@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="M4Y-Lb-cyx">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Today View Controller-->
+        <scene sceneID="cwh-vc-ff4">
+            <objects>
+                <viewController id="M4Y-Lb-cyx" customClass="TodayViewController" customModule="KanggoPocketExtension" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" simulatedAppContext="notificationCenter" id="S3S-Oj-5AN">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="250"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gf6-sb-Tw3" userLabel="CenterView">
+                                <rect key="frame" x="159" y="0.0" width="2" height="250"/>
+                                <color key="backgroundColor" white="1" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="2" id="ig3-Fg-oTE"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Z66-5a-4wj" userLabel="ScheduleCardView">
+                                <rect key="frame" x="8" y="8" width="149" height="234"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xIO-0i-9pw">
+                                        <rect key="frame" x="4" y="4" width="141" height="226"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <color key="textColor" red="1" green="1" blue="1" alpha="0.80000000000000004" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.40000000000000002" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstItem="xIO-0i-9pw" firstAttribute="centerY" secondItem="Z66-5a-4wj" secondAttribute="centerY" id="4cF-iH-hgB"/>
+                                    <constraint firstAttribute="bottom" secondItem="xIO-0i-9pw" secondAttribute="bottom" constant="4" id="65d-Gk-TzB"/>
+                                    <constraint firstItem="xIO-0i-9pw" firstAttribute="centerX" secondItem="Z66-5a-4wj" secondAttribute="centerX" id="66g-lS-wDh"/>
+                                    <constraint firstItem="xIO-0i-9pw" firstAttribute="top" secondItem="Z66-5a-4wj" secondAttribute="top" constant="4" id="Pnr-zR-ylA"/>
+                                    <constraint firstItem="xIO-0i-9pw" firstAttribute="leading" secondItem="Z66-5a-4wj" secondAttribute="leading" constant="4" id="Wl3-ce-1nN"/>
+                                    <constraint firstAttribute="trailing" secondItem="xIO-0i-9pw" secondAttribute="trailing" constant="4" id="dvW-MX-Ijr"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hSB-ED-kfh" userLabel="MealCardView">
+                                <rect key="frame" x="163" y="8" width="149" height="234"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m3h-dR-dkE">
+                                        <rect key="frame" x="8" y="8" width="133" height="218"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <color key="textColor" red="1" green="1" blue="1" alpha="0.80000000000000004" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.40000000000000002" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstItem="m3h-dR-dkE" firstAttribute="centerX" secondItem="hSB-ED-kfh" secondAttribute="centerX" id="6TQ-o9-inQ"/>
+                                    <constraint firstAttribute="bottom" secondItem="m3h-dR-dkE" secondAttribute="bottom" constant="8" id="BJJ-4E-JCD"/>
+                                    <constraint firstItem="m3h-dR-dkE" firstAttribute="leading" secondItem="hSB-ED-kfh" secondAttribute="leading" constant="8" id="ZXh-Ct-s7c"/>
+                                    <constraint firstAttribute="trailing" secondItem="m3h-dR-dkE" secondAttribute="trailing" constant="8" id="aHJ-7Y-cah"/>
+                                    <constraint firstItem="m3h-dR-dkE" firstAttribute="top" secondItem="hSB-ED-kfh" secondAttribute="top" constant="8" id="vzX-d3-vUd"/>
+                                    <constraint firstItem="m3h-dR-dkE" firstAttribute="centerY" secondItem="hSB-ED-kfh" secondAttribute="centerY" id="ylS-N9-g6Q"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="trailing" secondItem="hSB-ED-kfh" secondAttribute="trailing" constant="8" id="1xY-W1-Xfc"/>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="bottom" secondItem="Z66-5a-4wj" secondAttribute="bottom" constant="8" id="6jl-Z6-gmX"/>
+                            <constraint firstItem="Gf6-sb-Tw3" firstAttribute="centerY" secondItem="S3S-Oj-5AN" secondAttribute="centerY" id="988-SW-NUD"/>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="bottom" secondItem="hSB-ED-kfh" secondAttribute="bottom" constant="8" id="Frv-dN-cre"/>
+                            <constraint firstItem="hSB-ED-kfh" firstAttribute="leading" secondItem="Gf6-sb-Tw3" secondAttribute="trailing" constant="2" id="KSN-4o-eEW"/>
+                            <constraint firstItem="Gf6-sb-Tw3" firstAttribute="bottom" secondItem="S3S-Oj-5AN" secondAttribute="bottomMargin" id="Str-4U-LrS"/>
+                            <constraint firstItem="Gf6-sb-Tw3" firstAttribute="leading" secondItem="Z66-5a-4wj" secondAttribute="trailing" constant="2" id="VKk-3N-POo"/>
+                            <constraint firstItem="Z66-5a-4wj" firstAttribute="centerY" secondItem="S3S-Oj-5AN" secondAttribute="centerY" id="eF2-Vu-BDW"/>
+                            <constraint firstItem="Gf6-sb-Tw3" firstAttribute="centerX" secondItem="S3S-Oj-5AN" secondAttribute="centerX" id="h4T-1r-dNB"/>
+                            <constraint firstItem="Z66-5a-4wj" firstAttribute="leading" secondItem="ssy-KU-ocm" secondAttribute="leading" constant="8" id="lHr-We-0Xe"/>
+                            <constraint firstItem="Z66-5a-4wj" firstAttribute="top" secondItem="ssy-KU-ocm" secondAttribute="top" constant="8" id="mlR-tn-kvc"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="Gf6-sb-Tw3" secondAttribute="trailing" constant="143" id="nPn-dW-HMQ"/>
+                            <constraint firstItem="Gf6-sb-Tw3" firstAttribute="leading" secondItem="S3S-Oj-5AN" secondAttribute="leadingMargin" constant="143" id="o5a-u8-FJH"/>
+                            <constraint firstItem="Gf6-sb-Tw3" firstAttribute="top" secondItem="S3S-Oj-5AN" secondAttribute="topMargin" id="tWa-kj-9nr"/>
+                            <constraint firstItem="hSB-ED-kfh" firstAttribute="top" secondItem="ssy-KU-ocm" secondAttribute="top" constant="8" id="wlF-63-g7Z"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="ssy-KU-ocm"/>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="250"/>
+                    <connections>
+                        <outlet property="mealCard" destination="hSB-ED-kfh" id="Djc-8J-fLT"/>
+                        <outlet property="mealLabel" destination="m3h-dR-dkE" id="5Xn-yv-2qd"/>
+                        <outlet property="scheduleCard" destination="Z66-5a-4wj" id="Mq6-XA-FiV"/>
+                        <outlet property="scheduleLabel" destination="xIO-0i-9pw" id="4nn-ML-eyA"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vXp-U4-Rya" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="128" y="113.3433283358321"/>
+        </scene>
+    </scenes>
+</document>

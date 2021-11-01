@@ -1,0 +1,98 @@
+/* 
+  Localizable.strings
+  KanggoPocket
+
+  Created by Peter Choi on 2018. 1. 3..
+  Copyright © 2018년 RiDsoft. All rights reserved.
+*/
+"confirm" = "confirm";
+"cancel" = "cancel";
+"close" = "close";
+"grade" = "grade";
+"class" = "class";
+"agree" = "agree";
+"disagree" = "disagree";
+
+"first_setting_student" = " student";
+"first_setting_teacher" = " teacher";
+"first_setting_input_all_info" = "Please fill out the form above";
+"first_setting_alert_empty" = "Warning";
+"first_setting_alert_empty_msg" = "Please fill out the form";
+"first_setting_alert_name" = "Incorrect name format";
+"first_setting_alert_name_msg" = "Name should satisfy following format.\n1. In korean\n2. Above 2 letters. (Including last name)\n3. Below 4 letters. (Including last name, also)";
+"first_setting_alert_stdnum" = "Incorrect student number";
+"first_setting_alert_stdnum_msg" = "Please pick correct grade, class, and student number. \n\n(If you're 1st grade, 1st class, 1st number, rematch 1, 1, 1 from the picker.)";
+"first_setting_alert_check" = "Check information";
+"first_setting_alert_check_msg" = "Please check the information below.\n\n";
+
+"schedule_update_alert" = "Schedule table update";
+"schedule_update_alert_msg" = "Would you like to update Schedule table data?\n\nIf not connected to WiFi, data fee can be charged.";
+"schedule_update_error" = "Error";
+"schedule_update_error_msg" = "An error occured while updating schedule table.\nPlease report to developer.\n\n(email: soc06212@gmail.com)";
+"network_not_connected" = "Network not connected";
+"network_not_connected_msg" = "Can't connect to server since no network connected.\n\nPlease try again after connect to WiFi or carrier data.";
+"schedule_data_class_number" = " class: ";
+"schedule_update_finished" = "Schedule Data Updated";
+"schedule_update_finished_msg" = "Schedule Data has been updated.\n\nPlease reboot the app if the data is still outdated.";
+
+"no_data" = "No data (Nil)";
+
+"info_group_donation" = "Donation";
+"info_donation" = "Donate developer";
+"info_group_application" = "Application information";
+"info_application_version" = "App version";
+"info_developer" = "Developer";
+"info_developer_value" = "RiDsoft\nPeter Choi (57th graduate)";
+"info_license" = "About license";
+"info_group_communication" = "Communication and feedback";
+"info_facebook" = "Facebook page";
+"info_email" = "Developer's email";
+"info_kakaotalk" = "KakaoTalk";
+"info_telegram" = "Telegram";
+"info_send_feedback" = "Send feedback";
+
+"alert_kakaotalk_title" = "KakaoTalk";
+"alert_kakaotalk_msg" = "Developer's KakaoTalk ID is now copied to your clipboard. \n\nPlease paste at KakaoTalk's 'find friend with ID.'\n\n(ID: soc06212)";
+"alert_email_title" = "Sending email";
+"alert_email_msg" = "How would you like to send an email?";
+"alert_email_direct" = "With Mail app";
+"alert_email_copy" = "Copy email address";
+"alert_email_copied" = "Copied";
+"alert_email_copied_msg" = "Email address is now copied to your clipboard.\n\n(soc06212@gmail.com)";
+
+"donate_coffee" = "Coffee";
+"donate_latte" = "Latte";
+"donate_frappuccino" = "Frappuccino";
+
+"alert_map_failed" = "Map download failed";
+"alert_map_failed_msg" = "Can't load the map data. \nThis might be occurred because school website's data has been changed. You can check out App announcement about this problem.\n\nIf the problem is not solved, you can report to the developer about this issue.";
+
+// WebView
+"category_change_dialog" = "Change Category";
+"category_change_dialog_msg" = "Please select the category";
+"alert_non_category_selected" = "Please select proper category";
+
+// Student ID Creator
+"sid_creator_alert" = "Before start";
+"sid_creator_alert_msg" = "Taken pictures will be only used for extracting barcode, and not be transferred or saved in internal/ external server. \n\nUsing other's id without permission is illegal and can be treated as crime.";
+"failed_to_get_camera" = "Error";
+"failed_to_get_camera_msg" = "Failed to get the camera. \n\nPlease reboot the device and try again. If it keep fails, ask manufacturer about this problem.";
+"failed_barcode_reading" = "Error";
+"failed_barcode_reading_msg" = "Cannot continue the process.";
+"no_barcode_detected" = "No barcode detected";
+"inappropriate_code" = "Inappropriate code";
+"barcode_found" = "Barcode found";
+"barcode_successed" = "Success";
+"barcode_successed_msg" = "Barcode has been successfully analyzed. Your Student ID is created.";
+
+// Student ID
+"sid_delete" = "Delete";
+"sid_delete_msg" = "Are you sure you want to delete Student ID?";
+
+
+
+"license_title" = "License information";
+"license_kanna" = "Kanna(鉋): https://github.com/tid-kijyun/Kanna";
+"license_meal" = "Meal Parser (Algorithm): https://bitbucket.org/whdghks913/wondanghighschool";
+"license_mail" = "Swift mail: https://swifter.kr/2017/01/05/swift3기준-메일보내기-간단하게-추가방법/";
+

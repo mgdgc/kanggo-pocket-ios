@@ -1,0 +1,103 @@
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "BmA-Gf-Ay7"; */
+"BmA-Gf-Ay7.text" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "Terms about user info"; ObjectID = "F7n-LS-k76"; */
+"F7n-LS-k76.normalTitle" = "Terms about user info";
+
+/* Class = "UILabel"; text = "Teacher's account login is only available at first setting screen."; ObjectID = "FOd-J4-gu9"; */
+"FOd-J4-gu9.text" = "Teacher's account login is only available at first setting screen.";
+
+/* Class = "UINavigationItem"; title = "Today's"; ObjectID = "L5i-h4-RXW"; */
+"L5i-h4-RXW.title" = "Today's";
+
+/* Class = "UILabel"; text = "If you click 'complete', you will be considered as you agreed terms below."; ObjectID = "QlD-2e-FQg"; */
+"QlD-2e-FQg.text" = "If you click 'complete', you will be considered as you agreed terms below.";
+
+/* Class = "UIButton"; normalTitle = "Complete"; ObjectID = "WMN-98-vdo"; */
+"WMN-98-vdo.normalTitle" = "Complete";
+
+/* Class = "UILabel"; text = "시간표"; ObjectID = "Zjr-7B-Rqt"; */
+"Zjr-7B-Rqt.text" = "Schedule";
+
+/* Class = "UITextField"; placeholder = "이름"; ObjectID = "jD8-iM-AAz"; */
+"jD8-iM-AAz.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)"; ObjectID = "l2R-l1-vNj"; */
+"l2R-l1-vNj.text" = "1교시: 영어 (이진)\n\n2교시: 화기 (변경)\n\n3교시: 미술 (강승)\n\n4교시: 선1  (송영)\n\n5교시: 선3  (최준)\n\n6교시: 영어 (이진)";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "q6N-eg-Ujz"; */
+"q6N-eg-Ujz.normalTitle" = "Close";
+
+/* Class = "UIBarButtonItem"; title = "Me"; ObjectID = "sDk-C3-9rZ"; */
+"sDk-C3-9rZ.title" = "Me";
+
+/* Class = "UITabBarItem"; title = "Today's"; ObjectID = "ud2-We-DZi"; */
+"ud2-We-DZi.title" = "Today's";
+
+/* Class = "UIViewController"; title = "School Map"; ObjectID = "xlh-6U-tVb"; */
+"xlh-6U-tVb.title" = "School Map";
+
+/* Class = "UILabel"; text = "User Info Editing"; ObjectID = "zth-5T-Csf"; */
+"zth-5T-Csf.text" = "User Info Editing";
+
+"zn6-BO-vOH.text" = "Teacher's account";
+
+"V3i-wT-8ew.title" = "App Announce";
+
+"Zda-h6-I1J.text" = "- Other functions -";
+
+"iZP-P3-84u.title" = "Open";
+
+"8OO-NA-4xd.title" = "App Announce";
+
+"zuA-1p-2Y9.title" = "Refresh";
+
+"O52-yw-Lnd.title" = "Update";
+
+"Vsu-bq-KLf.title" = "School map";
+
+"vla-Gj-01K.title" = "Category";
+
+"56Z-bx-fIp.text" = "Student ID Creator";
+
+"TD0-Tv-SFn.text" = "Create your own digital student ID card.\nYou can use e-ID as your library card, meal card, and etc.\n\nAll you have to do is taking photo of your student ID card's barcode.";
+
+"6hj-r6-yFv.normalTitle" = "Analyze barcode";
+
+"gM1-Hh-JbQ.text" = "Scanning";
+
+"QZT-1P-8U3.normalTitle" = "Close";
+
+"PoP-JK-cK5.normalTitle" = "Later";
+
+"Khm-dx-5pm.normalTitle" = "Close";
+
+"jV9-q8-dK3.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "VRt-IQ-RT2"; */
+"7by-VO-NEO.text" = "Welcome!";
+
+/* Class = "UILabel"; text = "Few settings before start."; ObjectID = "9xg-pm-xyi"; */
+"Jp5-S4-H0a.text" = "Few settings before start.";
+
+/* Class = "UIButton"; normalTitle = "Complete"; ObjectID = "Y1z-xy-fAM"; */
+"bXc-Xk-G8j.normalTitle" = "Complete";
+
+/* Class = "UIButton"; normalTitle = "Terms about user info"; ObjectID = "dDE-NR-Y5d"; */
+"sRf-zh-AIt.normalTitle" = "Terms about user info";
+
+/* Class = "UILabel"; text = "If you click 'complete', you will be considered as you agreed terms below."; ObjectID = "g6j-uJ-G7e"; */
+"9Jk-qz-emc.text" = "If you click 'complete', you will be considered as you agreed terms below.";
+
+/* Class = "UILabel"; text = "Please fill out form above"; ObjectID = "r1v-7V-JGC"; */
+"HGx-54-Bgj.text" = "Please fill out form above";
+
+/* Class = "UILabel"; text = "Student number:"; ObjectID = "RJH-d4-rfN"; */
+"QuG-JY-SDX.text" = "Student number:";
+
+/* Class = "UILabel"; text = "Teacher's account"; ObjectID = "6ER-JD-aKO"; */
+"hgM-I5-pRa.text" = "Teacher's account";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "I5U-Mx-aVc"; */
+"sU8-cj-jeQ.placeholder" = "Name";"

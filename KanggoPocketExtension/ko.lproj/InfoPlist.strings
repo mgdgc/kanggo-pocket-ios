@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  KanggoPocket
+
+  Created by Peter Choi on 2018. 1. 18..
+  Copyright © 2018년 RiDsoft. All rights reserved.
+*/
+
+CFBundleDisplayName = "강고 포켓 투데이";
