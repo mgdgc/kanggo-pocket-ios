@@ -13,7 +13,7 @@
 > <br>개발자의 졸업과 입대, 두 번의 고비를 넘겨 많은 분들의 도움과 지지를 받았음에도 서버와 애플리케이션의 유지가 힘들다는 판단에 따른 결정입니다.
 > <br>강고 포켓의 여정은 끝이 났지만, 이후 제 2의 강고 포켓이 탄생하길 기대하며 여태까지 만들었던 소스를 모두 공개하려고 합니다.
 > <br>- [강고 포켓 안드로이드](https://github.com/soc06212/kanggo-pocket-android)
-> <br>- **[강고 포켓 iOS](https://github.com/soc06212/kanggo-pocket-ios) **
+> <br>- **[강고 포켓 iOS](https://github.com/soc06212/kanggo-pocket-ios)**
 > <br>- [강고 포켓 Web](https://github.com/soc06212/kanggo-pocket-web)
 > <br>강고 포켓 안드로이드/ iOS는 개인정보를 기기 내에서 저장하고 처리하기 때문에 앱을 삭제하면 저장된 정보가 삭제됩니다.
 > <br>강고 포켓 Web은 2020년 12월 01일 18시 30분, 서버가 종료됨과 함께 영구적으로 삭제되었습니다.
